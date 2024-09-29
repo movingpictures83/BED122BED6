@@ -1,0 +1,2 @@
+Prefix plugins/BED122BED6/example/
+Plugin BED122BED6 inputfile A.bed12.bed outputfile A.bed6.bed
